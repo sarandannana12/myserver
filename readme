@@ -1,0 +1,50 @@
+🌐 Saran Babu Dannana — Personal Portfolio
+A 3D animated personal portfolio website built with HTML, CSS, and Three.js.
+Live at: sarandannana12.github.io
+
+✨ Features
+🎯 Interactive 3D animated background using Three.js
+🌊 Smooth scroll fade-in animations on every section
+📱 Fully responsive design for mobile and desktop
+🔗 Clickable certificate and social links
+⚡ Pure HTML/CSS/JS — no frameworks, no build tools
+
+📂 Sections
+Hero — Name, tagline, and call-to-action
+About — Bio and contact details
+Skills — Programming, Cloud, SAP, and tools
+Experience — Internship timeline
+Projects — Featured technical projects
+Education — Academic background
+Certifications — Verified credentials with links
+Contact — Email, LinkedIn, GitHub
+🛠️ Tech Stack
+Technology	Usage
+HTML5 / CSS3	Structure & styling
+JavaScript (ES6)	Interactivity & animations
+Three.js r128	3D background animation
+
+🚀 Run Locally
+No installation needed. Just clone and open:
+git clone https://github.com/sarandannana12/sarandannana12.github.io.git
+cd sarandannana12.github.io
+# Open index.html in your browser
+
+bash
+git clone https://github.com/sarandannana12/sarandannana12.github.io.git
+cd sarandannana12.github.io
+# Open index.html in your browser
+
+📜 Certifications
+SAP Certified Associate – ABAP Cloud (SAP, Apr 2026)
+Fundamentals of Information Security (Infosys)
+Google Cloud Network Skill Badge
+SQL Advanced (HackerRank)
+Problem Solving in Python (HackerRank)
+Git & GitHub Bootcamp (upGrad)
+📬 Contact 8144852821
+📧 dannanasaranbabu@gmail.com
+💼 LinkedIn
+🐙 GitHub
+Designed and built by Saran Babu Dannana · 2025
+
