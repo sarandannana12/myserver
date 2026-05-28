@@ -1,1 +1,1 @@
-Original line
+Edited by conflict-test branch
