@@ -1,2 +1,3 @@
 Hello from EC2
 Learning Git on AWS
+Always write good commit messages
